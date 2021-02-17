@@ -64,7 +64,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
         <dimen name="padding_xs">4dp</dimen>
   </resources>
 ```
-   - [x] **Format 01 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2302/dimens-clean.xml) ( margin_xs, padding_xl )** <br/>
+   - [x] **Format 01 : [dimens.xml](https://github.com/rshavinda/android-canvas/blob/main/Dimensions/Style2/Format1/dimens.xml) ( margin_xs, padding_xl )** <br/>
    - [x] **Format 02 : [dimens.xml](https://github.com/rshavinda/android-canvas/blob/main/Dimensions/Style2/Format2/dimens.xml) ( margin_extra_small, padding_extra_large )**
         
 
