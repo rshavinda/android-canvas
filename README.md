@@ -11,9 +11,6 @@ Themable, flexible color ramps for design applications.
   > Out of color ideas?   <br/>
   > [Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
         <br/>
-  - [x] ** Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to easily work with standard color formats.**
+ - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to easily work with standard color formats (*All Color Codes from Google's Material design color palette*).**
         
 
-
-  *Color Codes from Google's Material design color palette:*  <br/>
-  *List of colors (compact)* <br/>
