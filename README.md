@@ -19,7 +19,8 @@ Themable, flexible color ramps for design applications.
    [HTML Color Codes](https://material.io/) library features flat design colors, Google's Material design scheme and the classic web safe color palette, all with Hex color codes and color names.
         <br/>
   - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to work with wide range of colours.**
-
+<br/>
+<br/>
 
 ## dimens.xml
 Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
@@ -41,7 +42,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
 <br/>
 <br/>
 
- - [x] **Dimensions Style #02 :** 
+ - [x] **Dimensions Style #02 :** <br/>
  Margins and padding properties defined in separate sections as shown below,
 ```xml
   <resources>
