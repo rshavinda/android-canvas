@@ -6,9 +6,9 @@ Android values directory files can be defined both as standard resources (under 
 ---
 ## color.xml
 Themable, flexible color ramps for design applications.
-  ### 1) Color - Style - Material Design
-        [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.<br/>
-        
+  #### 1) Color - Style - Material Design 
+  <br/>
+       [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.
          >Out of color ideas?
          >[Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
         <br/>
