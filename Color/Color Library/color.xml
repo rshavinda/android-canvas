@@ -269,7 +269,7 @@
 
 
     <!-- Shades of Green -->
-    <color name="PastelGreen">#C1E1C1</color>
+    <color name="pastelGreen">#C1E1C1</color>
     <color name="seafoamGreen">#9FE2BF</color>
     <color name="celadon">#AFE1AF</color>
     <color name="eucalyptus">#5F8575</color>
