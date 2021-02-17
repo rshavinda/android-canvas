@@ -4,9 +4,9 @@
 Android values directory files can be defined both as standard resources (under res/values/), as well as direct values supplied for mappings in styles and themes, and attributes in XML files such as layouts. Here are some standard dimensions, color codes for use in Android app development. ♘
 
 ---
-## color.xml
+## 1) color.xml
 Themable, flexible color ramps for design applications.
-   ### 1) Color - Style - Material Design
+   ### - Color - Style - Material Design
    [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.
    > Out of color ideas?   <br/>
    > [Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
@@ -15,17 +15,17 @@ Themable, flexible color ramps for design applications.
 
 <br/>
 
-   ### 2) Color Library 
+   ### - Color Library 
    [HTML Color Codes](https://material.io/) library features flat design colors, Google's Material design scheme and the classic web safe color palette, all with Hex color codes and color names.
         <br/>
   - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to work with wide range of colours.**
 <br/>
 
 ---
-## dimens.xml
+## 2) dimens.xml
 Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
 
-   ### 1) Dimensions Style #01
+   ### - Dimensions Style #01
  The 'space' tag represent both margins and padding properties as follows,
 ```xml
   <resources>
@@ -42,7 +42,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
 <br/>
 <br/>
 
- ### 2) Dimensions Style #02 :
+ ### - Dimensions Style #02 :
  Margins and padding properties defined in separate sections as shown below,
 ```xml
   <resources>
