@@ -14,7 +14,7 @@ Themable, flexible color ramps for design applications.
    - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the** `res/values` **folder of your project to easily work with standard color formats (All Color Codes from Google's Material design color palette).**
 
 
-![alt text](https://github.com/rshavinda/android-canvas/blob/main/Images/material_colours.png)
+      ![alt text](https://github.com/rshavinda/android-canvas/blob/main/Images/material_colours.png)
 <br/>
 
    - **➤ Color Library** <br/>
@@ -23,6 +23,7 @@ Themable, flexible color ramps for design applications.
    - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the** `res/values` **folder of your project to work with wide range of colours.**
 <br/>
 
+      ![alt text](https://github.com/rshavinda/android-canvas/blob/main/Images/html_colours.png)
 ---
 ## 2) dimens.xml
 Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
