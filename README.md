@@ -1,13 +1,13 @@
 # Android Canvas
 ![alt text](https://github.com/rshavinda/android-canvas/blob/main/Images/canvas_cover.png)
 
-♘ Android `values` directory files can be defined both as standard resources (under res/values/), as well as direct values supplied for mappings in styles and themes, and attributes in XML files such as layouts. Here are some standard dimensions, color codes for use in Android app development. 
+♘ Android `values` directory files can be defined both as standard resources (under res/values/), as well as direct values supplied for mappings (in styles, themes and attributes in XML files such as layouts). Here are some standard dimensions, color codes for use in Android app development. 
 
 ---
 ## 1) color.xml
 Themable, flexible color ramps for design applications.
    - **➤ Color - Style - Material Design** <br/>
-   [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.
+   [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and it is the design system for Android.
      > Out of color ideas?   <br/>
      > [Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
        <br/>
