@@ -6,18 +6,62 @@ Android values directory files can be defined both as standard resources (under 
 ---
 ## color.xml
 Themable, flexible color ramps for design applications.
-  ### 1) Color - Style - Material Design
-  [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.
-  > Out of color ideas?   <br/>
-  > [Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
+   ### 1) Color - Style - Material Design
+   [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.
+   > Out of color ideas?   <br/>
+   > [Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
         <br/>
- - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to easily work with standard color formats (*All Color Codes from Google's Material design color palette*).**
+   - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to easily work with standard color formats (*All Color Codes from Google's Material design color palette*).**
 
 <br/>
 
-  ### 2) Color Library 
-  [HTML Color Codes](https://material.io/) library features flat design colors, Google's Material design scheme and the classic web safe color palette, all with Hex color codes and color names.
+   ### 2) Color Library 
+   [HTML Color Codes](https://material.io/) library features flat design colors, Google's Material design scheme and the classic web safe color palette, all with Hex color codes and color names.
         <br/>
- - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to work with wide range of colours.**
+  - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to work with wide range of colours.**
+
+
+## dimens.xml
+Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
+
+  - [x] **Dimensions Style #01** <br/>
+ The 'space' tag represent both margins and padding properties as follows,
+```xml
+  <resources>
+       <!-- Margins and Padding -->
+       <dimen name="space_xl">32dp</dimen>
+       <dimen name="space_large">24dp</dimen>
+       <dimen name="space_medium">16dp</dimen> 
+       <dimen name="space_small">8dp</dimen>
+       <dimen name="space_xs">4dp</dimen>
+  </resources>
+```
+   > Format 01 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens-clean.xml) ( space_xs, space_xl ) <br/>
+   > Format 02 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens.xml) ( space_extra_small, space_extra_large )
+<br/>
+<br/>
+
+ - [x] **Dimensions Style #02 :** 
+ Margins and padding properties defined in separate sections as shown below,
+```xml
+  <resources>
+        <!-- Margins -->
+        <dimen name="margin_xxl">48dp</dimen>
+        <dimen name="margin_xl">32dp</dimen>
+        <dimen name="margin_large">24dp</dimen>
+        <dimen name="margin_medium">16dp</dimen> 
+        <dimen name="margin_small">8dp</dimen>
+        <dimen name="margin_xs">4dp</dimen>
+
+        <!-- Padding -->
+        <dimen name="padding_xl">32dp</dimen>
+        <dimen name="padding_large">24dp</dimen>
+        <dimen name="padding_medium">16dp</dimen>
+        <dimen name="padding_small">8dp</dimen>
+        <dimen name="padding_xs">4dp</dimen>
+  </resources>
+```
+   > Format 01 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2302/dimens-clean.xml) ( margin_xs, padding_xl ) <br/>
+   > Format 02 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2302/dimesns.xml) ( margin_extra_small, padding_extra_large )
         
 
