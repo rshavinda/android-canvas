@@ -39,7 +39,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
        <dimen name="space_xs">4dp</dimen>
   </resources>
 ```
-   - [x] **Format 01 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens-clean.xml) ( space_xs, space_xl )** <br/>
+   - [x] **Format 01 : [dimens.xml](https://github.com/rshavinda/android-canvas/blob/main/Dimensions/Style1/Format1/dimens.xml) ( space_xs, space_xl )** <br/>
    - [x] **Format 02 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens.xml) ( space_extra_small, space_extra_large )**
 <br/>
 <br/>
