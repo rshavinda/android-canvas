@@ -13,6 +13,8 @@ Themable, flexible color ramps for design applications.
        <br/>
    - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the** `res/values` **folder of your project to easily work with standard color formats (All Color Codes from Google's Material design color palette).**
 
+
+![alt text](https://github.com/rshavinda/android-canvas/blob/main/Images/material_colours.png)
 <br/>
 
    - **➤ Color Library** <br/>
