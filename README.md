@@ -10,15 +10,15 @@ Themable, flexible color ramps for design applications.
    [Material Design](https://material.io/) is a cross-platform design system from ***Google***, and is the design system for Android.
      > Out of color ideas?   <br/>
      > [Material Design Color Palette](https://material.io/resources/color/) will assist you quickly decide which color to choose for your project. 
-        <br/>
-      - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to easily work with standard color formats (*All Color Codes from Google's Material design color palette*).**
+       <br/>
+     - [x] **Or add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to easily work with standard color formats (*All Color Codes from Google's Material design color palette*).**
 
 <br/>
 
    - **➤ Color Library** <br/>
    [HTML Color Codes](https://material.io/) library features flat design colors, Google's Material design scheme and the classic web safe color palette, all with Hex color codes and color names.
         <br/>
-      - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to work with wide range of colours.**
+     - [x] **Add [colour.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) file in the `res/values` folder of your project to work with wide range of colours.**
 <br/>
 
 ---
