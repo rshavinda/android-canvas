@@ -31,7 +31,7 @@ Themable, flexible color ramps for design applications.
         **➤ Installation Steps** <br/>
 	
        **ᐅ Step 1: Add the JitPack repository to your build file** <br/>
-⠀⠀⠀⠀*Add the following dependency to your app `build.gradle` file:*
+⠀⠀*Add the following dependency to your app `build.gradle` file:*
 
 ```groovy
 	allprojects {
