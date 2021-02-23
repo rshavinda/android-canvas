@@ -20,12 +20,13 @@ Themable, flexible color ramps for design applications.
    - **➤ Color Library** <br/>
    [HTML Color Codes](https://material.io/) library features flat design colors, Google's Material design scheme and the classic web safe color palette, all with Hex color codes and color names.
         <br/>
-   - [x] **Add [colour.xml](https://github.com/rshavinda/android-canvas/blob/main/Color/Color%20Library/color.xml) file in the** `res/values` **folder of your project to work with wide range of colours.**
-<br/> <br/>
 
    ![alt text](https://github.com/rshavinda/android-canvas/blob/main/Images/html_colours.png)
    
-   ## Installation
+   <br/> <br/>
+   - [x] **Add [colour.xml](https://github.com/rshavinda/android-canvas/blob/main/Color/Color%20Library/color.xml) file in the** `res/values` **folder of your project to work with wide range of colours.**
+     
+   - [x] **Or add dependency to android studio project**
 
 **Step 1. Add the JitPack repository to your build file**
 ###### Add the following dependency to your app `build.gradle` file:
