@@ -27,27 +27,27 @@ Themable, flexible color ramps for design applications.
    - [x] **Add [colour.xml](https://github.com/rshavinda/android-canvas/blob/main/Color/Color%20Library/color.xml) file in the** `res/values` **folder of your project to work with wide range of colours.**
      
    - [x] **Or following dependencies to your android studio project**
-   - [ ] **Installation procedures**
+   - [ ] **Installation Steps**
 
 **Step 1. Add the JitPack repository to your build file**
 ###### Add the following dependency to your app `build.gradle` file:
 
-	```groovy
+```groovy
 	allprojects {
     	repositories {
 		...
 		maven { url 'https://jitpack.io' }
    	 }
 	}
-	```
+```
 
 **Step 2. Add the dependency**
 ###### Add the following dependency to your module `build.gradle` file:
-	```groovy
+```groovy
  	 dependencies {
     	 implementation 'com.github.rshavinda:android-color-library:1.0.0'
   	}
-	```
+```
 ---
 ## 2) dimens.xml
 Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
