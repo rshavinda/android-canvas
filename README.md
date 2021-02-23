@@ -27,17 +27,17 @@ Themable, flexible color ramps for design applications.
    - [x] **Add [colour.xml](https://github.com/rshavinda/android-canvas/blob/main/Color/Color%20Library/color.xml) file in the** `res/values` **folder of your project to work with wide range of colours.**
      
    - [x] **Or following dependencies to your android studio project**
-   - [ ] **Installation Steps**
+         **Installation Steps**
 
 **Step 1. Add the JitPack repository to your build file**
 ###### Add the following dependency to your app `build.gradle` file:
 
 ```groovy
 	allprojects {
-    	repositories {
+    		repositories {
 		...
 		maven { url 'https://jitpack.io' }
-   	 }
+   		 }
 	}
 ```
 
