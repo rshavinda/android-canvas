@@ -41,9 +41,9 @@ Themable, flexible color ramps for design applications.
    	   }
 	}
 ```
-
-**Step 2. Add the dependency**
- Add the following dependency to your module `build.gradle` file:
+   <br/>
+      **ᐅ Step 2. Add the dependency** <br/>
+         *Add the following dependency to your module `build.gradle` file:*
 ```groovy
  	 dependencies {
     	   implementation 'com.github.rshavinda:android-color-library:1.0.0'
